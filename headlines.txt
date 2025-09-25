@@ -1,0 +1,1 @@
+1. Error occurred: HTTPSConnectionPool(host='www.bbc.com', port=443): Max retries exceeded with url: /news (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ed54a376760>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
